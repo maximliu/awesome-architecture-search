@@ -18,7 +18,7 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 ## Architecture Search
 
 ### Reinforcement Learning
-- Neural Architecture Search with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1611.01578)
+- Neural Architecture Search with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1611.01578) [[code (not official)]](https://github.com/titu1994/neural-architecture-search)
   - Barret Zoph and Quoc V. Le. *ICLR'17*
 - Designing Neural Network Architectures Using Reinforcement Learning [[pdf]](https://arxiv.org/abs/1611.02167) [[code]](https://github.com/bowenbaker/metaqnn)
   - Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar. *ICLR'17*
